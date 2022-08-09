@@ -1,7 +1,7 @@
 # Xiang Liu's Homepage
 
 ## Personal Information
-A phd candidate from School of Energy and Power Engineering of Xi'an Jiaotong University!
+A phd candidate from School of Energy and Power Engineering of Xi'an Jiaotong University!\
 Email: liuxiang@stu.xjtu.edu.cn
 
 
